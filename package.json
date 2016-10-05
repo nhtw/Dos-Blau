@@ -1,7 +1,7 @@
 {
   "name": "Dos-Blau-Syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A DOS-inspired syntax theme for Atom.",
   "keywords": [
     "syntax",
